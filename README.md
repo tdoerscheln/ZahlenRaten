@@ -2,6 +2,7 @@ Dieses kleine Projekt ist am 26.02.2026 in Zusammenarbeit mit Victor entstanden.
 
 Das Setup des Programmes findet sich hier:
 https://doerscheln.com/setup/zahlenraten/ZahlenRaten.application
+
 Ich versichere ausdrücklich, dass das Programm keine Schadsoftware enthält.
 
 Da das Programm nicht signiert ist, kommen nach dem Aufruf des Installers diverse Meldungen wwgen Schadsoftware o.ä.. 
